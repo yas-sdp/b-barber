@@ -1,0 +1,259 @@
+<!-- <!DOCTYPE html> -->
+<html lang="fr">
+
+<head>
+<!----> -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>B-Barber</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/one-page-wonder.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">B-Barber : Par nous, pour vous, chez vous</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">S'inscrire</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Se connecter</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="masthead text-center text-white">
+    <div class="masthead-content">
+      <div class="container">
+        <h1 class="masthead-heading mb-0">B-Barber</h1>
+        <h2 class="masthead-subheading mb-0"> Être bien coiffé n'a jamais été aussi simple.</h2>
+        <a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">Prendre RDV</a>
+      </div>
+    </div>
+    <div class="bg-circle-1 bg-circle"></div>
+    <div class="bg-circle-2 bg-circle"></div>
+    <div class="bg-circle-3 bg-circle"></div>
+    <div class="bg-circle-4 bg-circle"></div>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Image1.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Des barbers qualifiés à un prix raisonnable.</h2>
+            <p>Tous nos barbers possèdent les diplômes requis pour exercer leur métier. Ils sont plus de 32000 à être inscrits sur B-Barber.  Vous avez envie de changer et de tenter une coupe originale sans ruiner votre budget courses du mois ?  C'est possible, plus de 100 styles de coupes/barbes sont disponibles sur B-Barber! Rien que ça... </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Appt rond.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="p-5">
+            <h2 class="display-4">Plus besoin de se déplacer...</h2>
+            <p>Avec B-Barber, votre barber se déplace chez vous selon vos disponibilités et vos besoins. C'est très simple, vous vous inscrivez, vous définissez votre type de coupe, votre budget et vous lancez la recherche. Une fois le barber trouvé, vous vous mettez d'accord sur un jour et un horaire, et vous validez. Plus qu'à attendre le jour J ! </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 order-lg-2">
+          <div class="p-5">
+            <img class="img-fluid rounded-circle" src="img/Homme barber rond.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 order-lg-1">
+          <div class="p-5">
+            <h2 class="display-4">Tentez l'expérience !</h2>
+            <p>Vous n'avez plus d'excuses ! Créer un compte B-Barber vous prendra deux minutes, (bon peut-être trois) et sera gratuit ! Nous pouvons vous promettre une chose, c'est que vous ne le regretterez pas...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="card my-4">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-lg-6">
+          <ul class="list-unstyled mb-0">
+   
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center">
+      <h2 class="section-heading text-uppercase">Notre équipe</h2>
+      <h3 class="section-subheading text-muted"> Nous sommes là pour vous accompagner. Pour que votre expérience B-Barber soit exceptionelle.</h3>
+      <div id="image">
+
+        <div class="element 1"> <img class="image-ronde" src="img/yas.png"> </div>
+        <div class="element 2"> <img class="image-ronde" src="img/Iyad.png"> </div>
+        <div class="element 3"> <img class="image-ronde" src="img/ines.png"> </div>
+
+  </div>
+  <div id="team">
+    <div class="element 1">
+        <h4>Yasmine DOUCHI</h4>
+    </div>
+    <div class="element 2">
+      <h4>Iyad KHASKI</h4>
+    </div>
+    <div class="element 3">
+      <h4>Inès BERKANI</h4>
+    </div>
+  </div>
+
+
+  <div id="work">
+    <div class="element 1">
+        <p>Developpeur Web</p>
+    </div>
+    <div class="element 2">
+      <p>Responsable Marketing</p>
+    </div>
+    <div class="element 3">
+      <p>Designer Web</p>
+    </div>
+    </div>
+  </div>
+  <div class="row">
+      <div class="col-lg-4">
+
+  </div>
+  <div class="row">
+      <div class="col-lg-8 mx-auto text-center"><p class="large text-muted"></p></div>
+  </div>
+  </div>
+  </section>
+  <!-- Side Widget -->
+  <div class="card my-4">
+    <h3 class="card-header"> Plus besoin de se ruiner pour être bien coiffé.</h3>
+  </div>
+    <!-- Contact-->
+    <section class="contact-section bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Rejoignez-nous ! </h4>
+                            <hr class="my-4" />
+                            <div class="small text-black-50">
+                              <div class="rs">
+                                <a href="#" class="social"> <img src="img/twitter.png" alt="social"/> <div class="fond_twi"></div></a>
+                                <a href="#" class="social"><img src="img/facebook.png" alt="social"/> <div class="fond_fb"></div></a>
+                                <a href="#" class="social"><img src="img/instagram.png" alt="social"/> <div class="fond_insta"></div></a>
+                              </div>
+                          
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-envelope text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Email</h4>
+                            <hr class="my-4" />
+                            <div class="small text-black-50"><a href="#!">BB@barber.com</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3 mb-md-0">
+                    <div class="card py-4 h-100">
+                        <div class="card-body text-center">
+                            <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                            <h4 class="text-uppercase m-0">Téléphone</h4>
+                            <hr class="my-4" />
+                            <div class="small text-black-50"><a href="#!">+33 6 14 94 05</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="social d-flex justify-content-center">
+                <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                <a class="mx-2" href="#!"><i class="fab fa-github"></i></a>
+            </div>
+        </div>
+    </section>
+    <div id="aide">
+
+          <a href="#">Politique de confidentialité</a>
+
+          <a href="#">CGV</a>
+
+          <a href="#">Paramètres de cookies</a>
+  
+          <a href="#">Aide</a>
+      
+          <a href="#">FAQ</a>
+
+
+
+    </div>
+
+  <!-- Footer -->
+  <footer class="footer py-4">
+      <div class="container">
+          <div class="align-items-center">
+             Copyright © Tous droits réservés.
+ 
+              </div>
+          </div>
+      </div>
+  </footer>
+
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
